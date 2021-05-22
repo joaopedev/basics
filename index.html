@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>jassa</title>
+
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+<div class="menutop">
+	<div class="inctxt">
+		<h4>Inicio</h4>
+	</div>	
+</div>
+
+
+
+<div class="imgtop">
+	<div class="imagem">
+		
+	</div>
+</div>
+
+<div class="sidebar">
+	<div >
+		<button class="button" id="bt1" onclick="esconder1()" >Esconder primeira linha</button>
+		<br> 
+		<button class="button" id="bt2" onclick="mostrarbt()" >Mostrar primeira linha</button>
+		<br>
+		<button class="button" id="bt3" onclick="calcularbt(ip1,ip2,barraderola,Result)" >Calcular</button>
+		<br>
+		<button class="button" id="bt4" onclick="aleatoriabt()" >Cor aleatoria</button>
+		<br>
+		<button class="button" id="bt5" onclick="limparbt()" >Limpar tudo</button>
+
+	</div>
+</div>
+
+
+		<div class="body">
+	
+			<div class="Resultado"  id="form1">
+		
+			<p class="texto" >Numero 1</p>
+			
+			<input id="ip1" type="number" name="numero 1">
+			
+			</div> <!--Numero1-->	
+
+			<div class="Resultado"  id="Operacoes" >
+				<p class="texto" >Operações</p>
+				<select id="barraderola" placeholder="selecione">
+					<option value="" >Selecione</option>
+					<option value="+" >Somar</option>
+					<option value="-" >Subtrair</option>
+					<option value="*" >Multiplicar</option>
+					<option value="/" >Dividir</option>
+					</select>
+			</div><!--Operacoes-->
+
+			<div class="Resultado" id="form2">
+		
+				<p class="texto" >Numero 2</p>
+				
+				<input id="ip2" type="number" name="numero 2">
+				
+				</div> <!--Numero2-->	
+			<div class="Resultado"  >
+                <p class="texto" >Resultado</p>
+				<input id="Result" readonly ></input>
+                
+			</div> <!--Numero2-->	
+			<div id="contaeresultado" >
+
+			</div>
+			    
+			
+		</div><!--Body-->
+<script src="script.js" ></script>
+<script src="script1.js" ></script>
+<script src="script2.js" ></script>
+<script src="script3.js" ></script>
+<script src="script4.js" ></script>
+
+
+
+</body>
+</html>
+
