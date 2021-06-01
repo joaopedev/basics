@@ -23,11 +23,8 @@ if(op.value == ``){
 }  
 
 if(op.value == '+'){ 
-
     
     document.getElementById('Result').value = +n1.value + +n2.value;
-    
-
 }
 if(op.value == '-'){
 
@@ -43,9 +40,4 @@ if(op.value == '/'){
 
     document.getElementById('Result').value = +n1.value / +n2.value;
 
-}
-
-
-
-
-}/*fechando function*/
+}}/*fechando function*/
