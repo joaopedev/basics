@@ -7,9 +7,9 @@
 
 // }
 
-function esconder1(){
+function esconder1() {
   var botao1 = document.querySelectorAll(`p`);
   botao1.forEach((botao1) => {
-    botao1.style.visibility = 'hidden';
+    botao1.style.visibility = "hidden";
   });
 }
