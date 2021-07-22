@@ -8,7 +8,7 @@
 
 // }
 
-function mostrarbt() {
+function show() {
   var botao2 = document.querySelectorAll(`p`);
   botao2.forEach((botao2) => {
     botao2.style.visibility = "visible";

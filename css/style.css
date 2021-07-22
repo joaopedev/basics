@@ -28,7 +28,7 @@
   padding: 0px 50px;
 }
 
-.imagem {
+.img {
   background-color: rgb(246, 117, 139);
   margin-top: 20px;
   margin-bottom: 20px;
@@ -118,7 +118,7 @@
   margin-left: -50px;
 }
 
-.Resultado {
+.result {
   display: inline-block;
   margin-left: 17px;
 }

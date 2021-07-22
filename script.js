@@ -7,7 +7,7 @@
 
 // }
 
-function esconder1() {
+function hide() {
   var botao1 = document.querySelectorAll(`p`);
   botao1.forEach((botao1) => {
     botao1.style.visibility = "hidden";
