@@ -1,8 +1,8 @@
 function clean() {
   var ip1 = document.getElementById("ip1");
-  var ip2 = document.getElementById("barraderola");
+  var ip2 = document.getElementById("scroll");
   var barraderola = document.getElementById("ip2");
-  var Result = document.getElementById("Result");
+  var Result = document.getElementById("result");
 
   ip1.value = ``;
   ip2.value = ``;
