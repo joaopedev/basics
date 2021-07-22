@@ -12,7 +12,7 @@ function calculate() {
     n2.style.border = `2px solid red`;
   }
   if (op.value == ``) {
-    alert(`said the operations`);
+    alert(`Said the operations`);
     op.style.border = `2px solid red`;
   }
 
