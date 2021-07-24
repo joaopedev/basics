@@ -28,4 +28,4 @@ function calculate() {
   if (op.value == "/") {
     document.getElementById("result").value = +n1.value / +n2.value;
   }
-} /*fechando function*/
+} 
