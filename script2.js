@@ -1,7 +1,7 @@
 function calculate() {
-  var n1 = document.getElementById("ip1");
-  var op = document.getElementById("scroll");
-  var n2 = document.getElementById("ip2");
+  let n1 = document.getElementById("ip1");
+  let op = document.getElementById("scroll");
+  let n2 = document.getElementById("ip2");
 
   if (n1.value == ``) {
     alert(`Number 1 was missing`);
@@ -17,15 +17,15 @@ function calculate() {
   }
 
   if (op.value == "+") {
-    document.getElementById("result").value = +n1.value + +n2.value;
+    document.getElementById("result").value = ` ${+n1.value + +n2.value}`;
   }
   if (op.value == "-") {
-    document.getElementById("result").value = +n1.value - +n2.value;
+    document.getElementById("result").value = ` ${+n1.value - +n2.value}`;
   }
   if (op.value == "*") {
-    document.getElementById("result").value = +n1.value * +n2.value;
+    document.getElementById("result").value = ` ${+n1.value * +n2.value}`;
   }
   if (op.value == "/") {
-    document.getElementById("result").value = +n1.value / +n2.value;
+    document.getElementById("result").value = ` ${+n1.value / +n2.value}`;
   }
 } 
