@@ -8,13 +8,13 @@
 
 
 
-### Autor
+### João Pedro
 ---
 
 <a href="https://github.com/joaopedev">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/82976371?v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Joa</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+ <sub><b>João Pedro</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
 
 
 Feito com ❤️ por João Pedro 👋🏽 Entre em contato!
