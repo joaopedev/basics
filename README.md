@@ -19,5 +19,5 @@
 
 Feito com ❤️ por João Pedro 👋🏽 Entre em contato!
 
-[![Twitter Badge](https://img.shields.io/badge/-@vsf_jassa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vsf_jassa)](https://twitter.com/vsf_jassa) [![Linkedin Badge](https://img.shields.io/badge/-Jassa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-pedro-5b9723213/)](https://www.linkedin.com/in/jo%C3%A3o-pedro-5b9723213/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Jassa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-pedro-5b9723213/)](https://www.linkedin.com/in/jo%C3%A3o-pedro-5b9723213/) 
 [![Gmail Badge](https://img.shields.io/badge/-jassadosgame2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jassadosgame2@gmail.com)](mailto:assadosgame2@gmail.com)
