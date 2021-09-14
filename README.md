@@ -14,7 +14,7 @@
 
 
 <ul>
-  <li>Criar 4 campos de texto, conforme mostra o protótipo de tela. 
+  <!-- <li>Criar 4 campos de texto, conforme mostra o protótipo de tela. 
 Os campos [Numero1] e [Numero2] deverão ser do tipo "number".
 O campo resultado deverá ser readonly.
  Para a operação, deverá ser usado um <select> contendo as opções (+ , - , * , / )
@@ -23,7 +23,7 @@ Caso um dos 3 campos anteriores esteja vazio, sua borda deverá ser colorida, in
 <li>Criar botão para esconder a linha contendo os campos de texto</li>
 <li>Criar botão para mostrar a linha contendo os campos de texto</li>
 <li>Criar botão "Cor aleatória", que deverá mudar, aleatóriamente, a cor de fundo de parte da tela.</li>
-<li>Criar botão "Limpar tudo", que deverá limpar o conteúdo de todos os inputs, limpar as cores de todas as bordas e fundos da tela.</li>
+<li>Criar botão "Limpar tudo", que deverá limpar o conteúdo de todos os inputs, limpar as cores de todas as bordas e fundos da tela.</li> -->
 </ul>
 
 
