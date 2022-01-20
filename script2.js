@@ -5,27 +5,27 @@ function calculate() {
 
   if (n1.value == ``) {
     alert(`Number 1 was missing`);
-    n1.style.border = `2px solid red`;
+    return n1.style.border = `2px solid red`;
   }
   if (n2.value == ``) {
     alert(`Number 2 was missing`);
-    n2.style.border = `2px solid red`;
+    return  n2.style.border = `2px solid red`;
   }
   if (op.value == ``) {
     alert(`Said the operations`);
-    op.style.border = `2px solid red`;
+    return  op.style.border = `2px solid red`;
   }
 
   if (op.value == "+") {
-    document.getElementById("result").value = ` ${+n1.value + +n2.value}`;
+    return document.getElementById("result").value = ` ${+n1.value + +n2.value}`;
   }
   if (op.value == "-") {
-    document.getElementById("result").value = ` ${+n1.value - +n2.value}`;
+    return  document.getElementById("result").value = ` ${+n1.value - +n2.value}`;
   }
   if (op.value == "*") {
-    document.getElementById("result").value = ` ${+n1.value * +n2.value}`;
+    return  document.getElementById("result").value = ` ${+n1.value * +n2.value}`;
   }
   if (op.value == "/") {
-    document.getElementById("result").value = ` ${+n1.value / +n2.value}`;
+    return document.getElementById("result").value = ` ${+n1.value / +n2.value}`;
   }
-} 
+}
